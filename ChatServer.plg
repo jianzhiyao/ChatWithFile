@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ChatServer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\user\AppData\Local\Temp\RSP5134.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ChatServer.pdb" /debug /machine:I386 /out:"Debug/ChatServer.exe" /pdbtype:sept 
+".\Debug\ChatServer.obj"
+".\Debug\ChatServerDlg.obj"
+".\Debug\ClientSocket.obj"
+".\Debug\FileClientSocket.obj"
+".\Debug\FileListenSocket.obj"
+".\Debug\ListenSocket.obj"
+".\Debug\Message.obj"
+".\Debug\ServerSocket.obj"
+".\Debug\StdAfx.obj"
+".\Debug\ChatServer.res"
+]
+Creating command line "link.exe @C:\Users\user\AppData\Local\Temp\RSP5134.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+ChatServer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
